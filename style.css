@@ -1,0 +1,50 @@
+body {
+    background-color: #73caf0;
+}
+h1 {
+    text-align: center
+}
+#main {
+    height: 525px;
+  width: 860px;
+  margin: 100px auto;
+  background: #c033c5;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 500px;
+  border-radius: 10px;
+}
+#myButton {
+    top: 00px;
+    left: 300px;
+    position: relative;
+    font-size: 30px;
+}
+#demo {
+    font-size: 150px;
+    top: -120px;
+    position: relative;
+    left: 370px;
+    
+}
+#addButton {
+position: relative;
+left: -130px;
+top: 300px;
+font-size: 30px;
+}
+#subButton {
+    position: relative;
+    top: 300px;
+    left: 80px;
+    font-size: 30px;
+}
+button {
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 25%;
+}
